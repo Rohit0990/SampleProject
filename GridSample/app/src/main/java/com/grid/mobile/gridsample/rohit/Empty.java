@@ -5,4 +5,8 @@ package com.grid.mobile.gridsample.rohit;
  */
 
 public class Empty {
+
+
+    public void getMethod()
+    {}
 }
